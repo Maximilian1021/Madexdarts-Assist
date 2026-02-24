@@ -1,0 +1,11 @@
+# Credentials – niemals committen
+bot.env
+*.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual Environment
+.venv/
